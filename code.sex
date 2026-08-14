@@ -1,0 +1,3 @@
+@pushstr "Hello, World!";
+push 10
+print 14
