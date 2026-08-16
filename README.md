@@ -1,1 +1,1 @@
-My expirement with writing own stack vm, please not read my code
+My expirement with writing own stack vm, please do not read my code
